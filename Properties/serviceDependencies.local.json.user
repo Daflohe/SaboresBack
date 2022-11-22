@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-11-10T22:21:33.1964201Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2022-11-10T22:22:03.1722364Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Sabores"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "c481f8ab-8b89-44cd-973b-352a8b5fb161"
+    }
+  }
+}

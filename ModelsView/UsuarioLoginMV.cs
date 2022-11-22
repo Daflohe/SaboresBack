@@ -1,0 +1,14 @@
+﻿namespace Sabores_Backend.ModelsView
+{
+    public class UsuarioLoginMV
+    {
+        public int? IdUsuario { get; set; }
+        public string? DocumentoIdentidad { get; set; }
+        public string? CorreoElectronico { get; set; }
+        public string? Nombre { get; set; } 
+        public string? Apellido { get; set; }
+        public string? Rol { get; set; }
+        public string? Contrasena { get; set; }
+        public string? Imagen { get; set; }
+    }
+}
